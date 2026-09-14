@@ -88,3 +88,6 @@ Interested in:
 - Job recommendation system
 - Multiple job description comparison
 - Downloadable professional analysis report
+
+- ## APP LINK
+- https://ai-resume-analyzerr1.streamlit.app/
